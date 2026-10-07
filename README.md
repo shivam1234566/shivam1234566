@@ -1,4 +1,4 @@
-Heyy I'm Shivam
+Heyy I'm Shivam,
 
 Electronics & Communication Engineering student interested in AI, hardware and software.
 
