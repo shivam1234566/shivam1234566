@@ -16,7 +16,7 @@ I enjoy building projects, experimenting with technology, and learning by turnin
 ## Technologies
 
 Languages:  
-Python · C · C++ · JavaScript · Verilog
+Python · C · C++ · JavaScript 
 
 Software: 
 React · Node.js · Supabase · Git
